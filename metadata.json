@@ -1,0 +1,5 @@
+{
+  "name": "Credit Card Fraud Detector",
+  "description": "An intelligent web application that uses an AI model to detect potentially fraudulent credit card transactions in real-time. Users can input key transaction features to receive an instant risk assessment.",
+  "requestFramePermissions": []
+}
