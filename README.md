@@ -1,12 +1,9 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Credit Card Fraud Detector
 
-# Run and deploy your AI Studio app
+This contains everything you need to run the app locally.
 
-This contains everything you need to run your app locally.
+View the app in AI Studio: [Click me](https://aistudio.google.com/app/prompts?state=%7B%22ids%22:%5B%2215TSrFWY9uAfC4xJoPkXEGCpw-a9PkRI8%22%5D,%22action%22:%22open%22,%22userId%22:%22108961708172831219034%22,%22resourceKeys%22:%7B%7D%7D&usp=sharing)
 
-View your app in AI Studio: https://ai.studio/apps/drive/15TSrFWY9uAfC4xJoPkXEGCpw-a9PkRI8
 
 ## Run Locally
 
